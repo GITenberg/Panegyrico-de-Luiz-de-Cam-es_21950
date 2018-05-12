@@ -14,6 +14,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/24988
     wikipedia: http://pt.wikipedia.org/wiki/Latino_coelho
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/21950#Panegyrico-de-Luiz-de-Cam-es
 gutenberg_issued: '2007-06-27'
 gutenberg_type: Text
 identifiers:
