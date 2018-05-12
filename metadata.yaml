@@ -1,0 +1,34 @@
+_repo: Panegyrico-de-Luiz-de-Cam-es_21950
+_version: 0.1.0
+alternative_title: Panegírico de Luís de Camões
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Coelho, J. M. Latino (José Maria Latino)
+    alias: Coelho, José Maria Latino
+    birthdate: 1825
+    deathdate: 1891
+    gutenberg_agent_id: '24988'
+    url: http://www.gutenberg.org/2009/agents/24988
+    wikipedia: http://pt.wikipedia.org/wiki/Latino_coelho
+description: ''
+gutenberg_issued: '2007-06-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '21950'
+  lccn: '37021051'
+language: pt
+language_note: This ebook uses 19th century spelling
+production_note: "Produced by Pedro Saborano from scanned images\r\nof public domain\
+  \ material from Google Book Search"
+publication_note: "Lisboa:\r\nTypographia da Academia\r\n1880"
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Camões, Luís de, 1524?-1580'
+title: Panegyrico de Luiz de Camões
+url: http://www.gutenberg.org/ebooks/21950
